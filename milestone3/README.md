@@ -137,6 +137,9 @@ This project integrates multiple Natural Language Processing (NLP) capabilities 
   - **Admin Panel** — Manage users and data access
 
 ---
+## 🎥 Demo Video
+[Click here to watch the demo video](https://drive.google.com/file/d/1aLtWnQqdgB46rFFrbs4Jn92V6xQF3LkH/view?usp=sharing)
+
 
 ##  **Future Enhancements**
 
